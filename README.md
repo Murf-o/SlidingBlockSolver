@@ -1,5 +1,7 @@
 # SlidingBlockSolver
 
+CURRENTLY DEVELOPING FRONT-END :) Enjoy.
+
 This is a program that finds the shortest possible solution to a sliding block puzzle. 
 The blocks are assumed to be rectangular shapes. The program is seperated into multiple files:
 slidingBlock.cpp, Solver.h, Snapshot.h, Grid.h, Movement.h, Piece.h.
