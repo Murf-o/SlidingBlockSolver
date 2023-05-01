@@ -1,6 +1,5 @@
 # SlidingBlockSolver
 
-CURRENTLY DEVELOPING FRONT-END :) Enjoy.
 
 This is a program that finds the shortest possible solution to a sliding block puzzle. 
 The blocks are assumed to be rectangular shapes. The program is seperated into multiple files:
@@ -33,3 +32,5 @@ The current state is the current position of all pieces in the puzzle and what m
 Each time the program created a new Snapshot that moved a piece towards the goal, it would check whether this Snapshot was a solution.
 If it was, then it immediately returns that solution and we print it out.
 This guarantees us the shortest solution.
+CURRENTLY DEVELOPING FRONT-END :) Enjoy.
+
